@@ -1,1 +1,1 @@
-mjs_portal
+mjsportal
